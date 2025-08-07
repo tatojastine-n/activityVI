@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ContactDeduplicator\bin\Debug\ContactDeduplicator.exe.config
+C:\Users\HP\source\repos\ContactDeduplicator\bin\Debug\ContactDeduplicator.exe
+C:\Users\HP\source\repos\ContactDeduplicator\bin\Debug\ContactDeduplicator.pdb
+C:\Users\HP\source\repos\ContactDeduplicator\obj\Debug\ContactDeduplicator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ContactDeduplicator\obj\Debug\ContactDeduplicator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ContactDeduplicator\obj\Debug\ContactDeduplicator.exe
+C:\Users\HP\source\repos\ContactDeduplicator\obj\Debug\ContactDeduplicator.pdb
